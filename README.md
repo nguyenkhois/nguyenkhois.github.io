@@ -9,6 +9,7 @@ This is my page on GitHub and you can find me on [vLexikon](http://www.vlexikon.
 * [HTML - Liv standard](https://html.spec.whatwg.org/multipage/)
 * [CSS-Tricks Almanac](https://css-tricks.com/almanac/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [CommonMark Spec](http://spec.commonmark.org/0.28/) (Version 0.28 (2017-08-01))
 
 ### Wireframes - Mockups - Prototype
 ![UX Sum-up](/images/ux-table.jpg "UX Sum-up")
