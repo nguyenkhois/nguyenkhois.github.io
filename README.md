@@ -4,6 +4,7 @@ This is my page on GitHub and you can also find me on [vLexikon](http://www.vlex
 ## **Bookmarks**
 ### Git
 * [Git book](https://git-scm.com/book/)
+* [Atlassian.com](https://www.atlassian.com/git/tutorials/what-is-git)
 
 ### HTML5 and CSS3
 * [W3Schools Online Web Tutorials](https://www.w3schools.com)
@@ -11,6 +12,7 @@ This is my page on GitHub and you can also find me on [vLexikon](http://www.vlex
 * [HTML - Liv standard](https://html.spec.whatwg.org/multipage/)
 * [CSS-Tricks Almanac](https://css-tricks.com/almanac/)
 * [Can I use ...?](https://caniuse.com/)
+* Learn more about CSS3 flexbox layout model: [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [Flexbox demo](http://blog.krawaller.se/flexboxdemo/), [Flexbox froggy](http://flexboxfroggy.com/), [Flexbox defence](http://www.flexboxdefense.com/)
 
 ### Markdown language
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
