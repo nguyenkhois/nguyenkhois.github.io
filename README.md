@@ -6,6 +6,9 @@ This is my page on GitHub and you can also find me on [vLexikon](http://www.vlex
 * [Codepen](https://codepen.io/khois/)
 * [JSFiddle](https://jsfiddle.net/user/khoile/fiddles/)
 
+## **Projects**
+* [Group project](https://nguyenkhois.github.io/groupproject/)
+
 ## **Bookmarks**
 ### Git
 * [Git book](https://git-scm.com/book/)
