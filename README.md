@@ -1,5 +1,5 @@
 # nguyenkhois.github.io
-This is my page on GitHub and you can also find me on [vLexikon](http://www.vlexikon.com) (Swedish-Vietnamese dictionary) as my life project. I'm also on [Linkedin](https://www.linkedin.com/in/khoi-le-b5225814b/). I would like to receive feedback from you on what is about web programming. I always love it! (^_~)
+This is my page on GitHub and you can also find me on [vLexikon](https://www.vlexikon.com) (Swedish-Vietnamese dictionary) as my life project. I'm also on [Linkedin](https://www.linkedin.com/in/khoi-le-b5225814b/). I would like to receive feedback from you on what is about web programming. I always love it! (^_~)
 
 ## **My libraries**
 * [HTML and CSS](https://github.com/nguyenkhois/library-html-css)
@@ -7,6 +7,7 @@ This is my page on GitHub and you can also find me on [vLexikon](http://www.vlex
 * [JSFiddle](https://jsfiddle.net/user/khoile/fiddles/)
 
 ## **Projects**
+* [vLexikon - Swedish-Vietnamese dictionary](https://www.vlexikon.com)
 * [Group project](https://nguyenkhois.github.io/groupproject/)
 
 ## **Bookmarks**
