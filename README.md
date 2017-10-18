@@ -7,7 +7,7 @@ This is my page on GitHub and you can also find me on [vLexikon](https://www.vle
 * [JSFiddle](https://jsfiddle.net/user/khoile/fiddles/)
 
 ## **Projects**
-* [vLexikon - Swedish-Vietnamese dictionary](https://www.vlexikon.com)
+* [Swedish-Vietnamese dictionary](https://www.vlexikon.com)
 * [Group project](https://nguyenkhois.github.io/groupproject/)
 
 ## **Bookmarks**
