@@ -1,6 +1,10 @@
 /* Custom styles */
 .bg-navy {background-color: #112945 !important;}
 
+/* Using for icons which uses Font Awesome */
+.icon-effect{color: #c1c1c1 !important;}
+.icon-effect:hover{color: #e6e6e6 !important;}
+
 /* Custom components */
 .box{padding: 15px;margin:0;position: relative;}
 .box-default{border: 1px solid #cbcbcb;border-radius: 5px;}
