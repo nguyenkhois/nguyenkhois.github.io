@@ -1,0 +1,13 @@
+/* Custom styles */
+.bg-navy {background-color: #112945 !important;}
+
+/* Custom components */
+.box{padding: 15px;margin:0;position: relative;}
+.box-default{border: 1px solid #cbcbcb;border-radius: 5px;}
+.box-classic{background: #f7f7f7;border: 1px solid #cbcbcb;border-radius: 5px;}
+.box-dashed:hover{color: #6495ed;border: 1px dashed #6495ed;cursor: pointer;}
+
+/* Override Boostrap 4 */
+.navbar>div>a{color: #AEE9F8 !important;}
+.nav-item>a{color: #81ADBC !important;}
+.nav-item>a:hover, .active > .nav-link{color: #AEE9F8 !important;}
