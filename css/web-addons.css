@@ -1,6 +1,11 @@
 /* Added custom styles for navbar in Bootstrap */
 .bg-navy {background-color: #112945 !important;}
 
+/* Override Boostrap */
+.navbar>div>a{color: #AEE9F8 !important;}
+.nav-item>a{color: #81ADBC !important;}
+.nav-item>a:hover, .active > .nav-link{color: #AEE9F8 !important;}
+
 /* Using for icons which uses Font Awesome */
 .icon-effect{color: #c1c1c1 !important;}
 .icon-effect:hover{color: #e6e6e6 !important;}
@@ -21,7 +26,6 @@
 .box-dashed{border: thin solid #cbcbcb;border-radius: 5px;}
 .box-dashed:hover{color: #6495ed;border: thin dashed #6495ed;cursor: pointer;}
 
-/* Override Boostrap */
-.navbar>div>a{color: #AEE9F8 !important;}
-.nav-item>a{color: #81ADBC !important;}
-.nav-item>a:hover, .active > .nav-link{color: #AEE9F8 !important;}
+/* Custom styles for images */
+.grayscale{filter: grayscale(100%);}
+.grayscale:hover{filter: none;}
