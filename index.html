@@ -5,10 +5,14 @@
     <title>Web add-ons</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <script src="js/jquery-3.2.1.slim.min.js"></script>
-    <script src="js/popper.js"></script>
-    <script src="js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/font-awesome.min.css">
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <script>//Using for tooltip in Bootstrap
+        $(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});
+    </script>
 
     <link rel="stylesheet" href="css/web-addons.css">
     <link rel="stylesheet" href="css/main.css">
@@ -39,18 +43,16 @@
             <li class="nav-item">
                 <a class="nav-link" href="#">CSS3</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">JavaScript</a>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownJS" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">JavaScript</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownJS">
+                    <a class="dropdown-item" href="#">jQuery</a>
+                    <a class="dropdown-item" href="#">Angular</a>
+                    <a class="dropdown-item" href="#">ReactJS</a>
+                </div>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">jQuery</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Angular</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">ReactJS</a>
-            </li>
+
             <li class="nav-item">
                 <a class="nav-link" href="#">WordPress</a>
             </li>
@@ -59,7 +61,10 @@
             </li>
         </ul>
 
-        <a href="https://github.com/nguyenkhois/" target="_blank"><i class="fa fa-github fa-2x icon-effect" aria-hidden="true"></i></a>
+        <a href="https://github.com/nguyenkhois/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Visit me on GitHub"><i class="fa fa-github fa-2x icon-effect mr-2" aria-hidden="true"></i></a>
+
+        <a href="http://getbootstrap.com/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Many thanks for Bootstrap"><img src="images/icon-bootstrap.png" alt="Boostrap"></a>
+
     </div>
 </nav>
 
@@ -72,7 +77,44 @@
             <p>Sincerely, Khoi Le</p>
         </div>
     </div>
+</div>
 
+<div class="container-fluid">
+    <div class="row justify-content-center mt-5">
+        <h4><strong>Example for box component</strong></h4>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-4 mt-3 mr-3 box box-default">
+            Box component with .box .box-default
+        </div>
+
+        <div class="col-4 mt-5 box box-classic">
+            Box component with .box .box-classic
+        </div>
+
+        <div class="col-4 mt-5 mr-3 box box-shadow">
+            Box component with .box .box-shadow
+        </div>
+
+        <div class="col-4 mt-5 box box-dashed">
+            Box component with .box .box-dashed
+        </div>
+
+        <div class="col-2 mt-4 ml-3 box box-sticky-green">
+            Simple green sticky with classes .box .box-sticky-green
+        </div>
+        <div class="col-2 mt-5 mr-3 box box-sticky-yellow">
+            Simple yellow sticky with classes .box .box-sticky-yellow
+        </div>
+        <div class="col-2 mt-5 mr-3 box box-sticky-violet">
+            Simple violet sticky with classes .box .box-sticky-violet
+        </div>
+
+        <div class="col-4 mt-5 box box-scale">
+            Box component with scale style when mouse over (.box .box-scale)
+        </div>
+
+    </div>
 </div>
 
 </body>

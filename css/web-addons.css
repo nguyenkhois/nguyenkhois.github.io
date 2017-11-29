@@ -1,4 +1,4 @@
-/* Custom styles */
+/* Added custom styles for navbar in Bootstrap */
 .bg-navy {background-color: #112945 !important;}
 
 /* Using for icons which uses Font Awesome */
@@ -7,11 +7,21 @@
 
 /* Custom components */
 .box{padding: 15px;margin:0;position: relative;}
-.box-default{border: 1px solid #cbcbcb;border-radius: 5px;}
-.box-classic{background: #f7f7f7;border: 1px solid #cbcbcb;border-radius: 5px;}
-.box-dashed:hover{color: #6495ed;border: 1px dashed #6495ed;cursor: pointer;}
+.box-default{border: thin solid #cbcbcb;border-radius: 5px;}
+.box-classic{background: #f8f8f8;border: thin solid #cbcbcb;border-radius: 5px;}
+.box-shadow{border: thin solid #cbcbcb;border-radius: 5px;box-shadow: 2px 2px 5px #eaeaea;}
 
-/* Override Boostrap 4 */
+.box-sticky-green{border: thin solid #cbcbcb;background: #cfc;box-shadow: 2px 2px 5px #eaeaea;transform: rotate(5deg);}
+.box-sticky-yellow{border: thin solid #cbcbcb;background: #ffc;box-shadow: 2px 2px 5px #eaeaea;transform: rotate(5deg);}
+.box-sticky-violet{border: thin solid #cbcbcb;background: #ccf;box-shadow: 2px 2px 5px #d0d0d0;transform: rotate(5deg);}
+
+.box-scale{border: thin solid #cbcbcb;border-radius: 5px;cursor: pointer;}
+.box-scale:hover{box-shadow: 2px 2px 5px #e9e9e9;transition: all .2s linear;transform: scale(1.02);}
+
+.box-dashed{border: thin solid #cbcbcb;border-radius: 5px;}
+.box-dashed:hover{color: #6495ed;border: thin dashed #6495ed;cursor: pointer;}
+
+/* Override Boostrap */
 .navbar>div>a{color: #AEE9F8 !important;}
 .nav-item>a{color: #81ADBC !important;}
 .nav-item>a:hover, .active > .nav-link{color: #AEE9F8 !important;}
