@@ -3,6 +3,7 @@ This is my page on GitHub and you can also find me on [vLexikon.com](https://www
 
 ## **Projects**
 * [Swedish-Vietnamese dictionary](https://www.vlexikon.com)
+* [Web Add-on](https://nguyenkhois.github.io/)
 
 ## **My libraries**
 * [HTML and CSS](https://github.com/nguyenkhois/library-html-css)
