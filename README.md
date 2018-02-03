@@ -12,7 +12,7 @@ This is my page on GitHub and you can also find me on [vLexikon.com](https://www
 
 ## **My repositories on GitHub**
 ### JavaScript
-* [Mini calculator](https://github.com/nguyenkhois/js-minicalculator)
+* Mini calculator [Repo](https://github.com/nguyenkhois/js-minicalculator) [Demo](https://nguyenkhois.github.io/js-minicalculator/)
 
 ## Wiki
 * [My wiki on GitHub](https://github.com/nguyenkhois/nguyenkhois.github.io/wiki)
