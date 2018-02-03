@@ -10,7 +10,9 @@ This is my page on GitHub and you can also find me on [vLexikon.com](https://www
 * [Codepen](https://codepen.io/khois/)
 * [JSFiddle](https://jsfiddle.net/user/khoile/fiddles/)
 
-## **My repositories on GitHubs**
+## **My repositories on GitHub**
+### JavaScript
+* [Mini calculator](https://github.com/nguyenkhois/js-minicalculator)
 
 ## Wiki
 * [My wiki on GitHub](https://github.com/nguyenkhois/nguyenkhois.github.io/wiki)
