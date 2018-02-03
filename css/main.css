@@ -1,1 +1,9 @@
 /* Main CSS */
+/* Override Boostrap */
+.navbar>div>a{color: #AEE9F8 !important;}
+.nav-item>a{color: #81ADBC !important;}
+.nav-item>a:hover, .active > .nav-link{color: #AEE9F8 !important;}
+
+/* Using for icons which uses Font Awesome */
+.icon-effect{color: #c1c1c1 !important;}
+.icon-effect:hover{color: #e6e6e6 !important;}
