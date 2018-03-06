@@ -7,3 +7,10 @@
 /* Using for icons which uses Font Awesome */
 .icon-effect{color: #c1c1c1 !important;}
 .icon-effect:hover{color: #e6e6e6 !important;}
+
+/* Using for main contents */
+.find-me{text-align: center;font-weight: bold;}
+.find-me a, .find-me a:hover{text-decoration: none;color: #ffffff;}
+.on-linkedin{color: #ffffff;}
+.on-github{color: #ffffff;}
+.on-vlexikon{}
